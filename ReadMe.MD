@@ -2,9 +2,7 @@
 
 ### Intent & How it's made
 
-The intent and purpose of this portfolio is to showcase
-
-the intent and purpose behind this website was to build functional site, employing working knowledge of several important technologies, in order to design an online presence for myself as a future developer. Consquently, this portfolio was made utilising the following technologies:
+The intent and purpose behind this website was to build functional site, employing working knowledge of several important technologies, such as HTML5, SASS, JavaScript, Git & GitHub, in order to design an online presence for myself as a future developer. Consquently, this portfolio was made utilising the following technologies:
 
 - **HTML5**
 - **SASS**
@@ -17,5 +15,6 @@ the intent and purpose behind this website was to build functional site, employi
 ### Functionality
 
 - add notes for functionality
+- This portfolio comprises of several
 
 ### Optimisations
