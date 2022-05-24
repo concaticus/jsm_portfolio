@@ -18,3 +18,5 @@ The intent and purpose behind this website was to build functional site, employi
 - This portfolio comprises of several
 
 ### Optimisations
+
+- For future iterations of this portfolio, I would like to enhance my working knowledge of JS and CSS by incorperating elements of Brad Traversy's 50 Projects in Vanilla JS course
